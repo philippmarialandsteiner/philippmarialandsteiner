@@ -1,6 +1,6 @@
 ## 👋 Hello Visitor
 
-Your are looking at my offical public account. 
+Your are looking at my official public account. 
 
 - 🔭 I’m currently working on: Open Source Projects
 - 🌱 I’m currently learning about: Clean Architecture
