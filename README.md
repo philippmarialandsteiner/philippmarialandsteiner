@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hello Visitor
+
+Your are looking at my offical public account. 
+
+- 🔭 I’m currently working on: Open Source Projects
+- 🌱 I’m currently learning about: Clean Architecture
+- 👯 I’m looking to collaborate on: Valuable Projects
+
 
 <!--
 **philippmarialandsteiner/philippmarialandsteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
